@@ -19,7 +19,7 @@
 * Reload the page and press RDP_COFFIN> build
 * Press the down arrow on Connect To Your RPD to get IP, User, Password.
 > If you have any questions, contact me in Discord:
-> https://discord.gg/fgsK9wqWhQ
+> https://discord.gg
 ## Original Repositor :
-> https://github.com/c9ffin/rdp
+> https://github.com/StrikcYT/rdp
 ***
