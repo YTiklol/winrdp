@@ -1,4 +1,4 @@
-name: RDP_COFFIN
+name: WinRdpWithQueue
 
 on: workflow_dispatch
 
